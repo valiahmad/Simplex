@@ -1,4 +1,13 @@
 //simplex
+/*
+*
+* Solving Simplex
+* =============PROJECT============
+* Copyright (c) vali ahmad rahmani
+* Date Jul,12,2020
+* name simplex
+*
+*/
 #include <iostream>
 #include <Windows.h>
 #include <stdio.h>
